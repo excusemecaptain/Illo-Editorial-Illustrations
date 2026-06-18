@@ -1,0 +1,19 @@
+name: illo
+title: Illo — Editorial Illustrations
+description: >-
+  Creates original editorial illustrations where a recurring mascot character
+  performs the idea — one editorial scene or a hand-built explainer diagram —
+  in one of ten bundled print looks (riso, blueprint, woodcut, pixel, clay,
+  manila, chalk, phosphor, enamel, gouache, felt). Powered by Venice AI image
+  generation. Adapted from tmchow/illo-skill.
+version: 1.0.0
+author: excusemecaptain (Agent Zero adaptation)
+original_author: Trevin Chow (tmchow)
+original_source: https://github.com/tmchow/illo-skill
+license: MIT
+settings_sections: []
+per_project_config: false
+per_agent_config: false
+always_enabled: false
+webui:
+  - thumbnail.jpg
